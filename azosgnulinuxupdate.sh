@@ -20,7 +20,6 @@ if [ ! -f /etc/azversion ] ; then # user is on 2.0
     echo ""
     echo "CHANGELOG FOR ISO RELEASE:"
     echo "All of the above plus"
-    echo "- Default wallpaper is now azos_1 wallpaper"
     echo "- Striped out useless media players"
     echo "- Removed plasma-welcome after installation"
     echo ""

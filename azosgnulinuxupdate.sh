@@ -23,7 +23,6 @@ if [ ! -f /etc/azversion ] ; then # user is on 2.0
     echo "- Default wallpaper is now azos_1 wallpaper"
     echo "- Striped out useless media players"
     echo "- Removed plasma-welcome after installation"
-    echo "- Added the breeze theme to grub"
     echo ""
     echo "Files that will be created/changed:"
     echo "('+' means created, '-' means removed and '~' means changed)"
